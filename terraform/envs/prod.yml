@@ -1,0 +1,3 @@
+- bucket-name: haruto-tanabe-yaml-2022-02-06
+  tags: service-haruto-tanabe
+  env: prod
